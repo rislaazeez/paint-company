@@ -1,0 +1,31 @@
+[
+    {
+        "inv":"INV001",
+      "customerName": "John Doe",
+      "bill":"100",
+      "colors": [
+        { "name": "Thinking Blue", "quantity": 2 },
+        { "name": "Functional Red", "quantity": 1 }
+      ]
+      
+    },
+    {
+        "inv":"INV003",
+      "customerName": "Jane Smith",
+      "bill":"200",
+      "colors": [
+        { "name": "React Red", "quantity": 3 },
+        { "name": "Stateful Pink", "quantity": 1 }
+      ]
+    },
+    {
+        "inv":"INV002",
+      "customerName": "Bob Johnson",
+      "bill":"550",
+      "colors": [
+        { "name": "Black Awakenings", "quantity": 2 },
+        { "name": "Cool Orange", "quantity": 1 }
+      ]
+    }
+  ]
+  

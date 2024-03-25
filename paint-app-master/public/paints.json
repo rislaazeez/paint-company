@@ -1,0 +1,8 @@
+[
+    { "name": "Thinking Blue", "color": "blue-600", "available-quantity":"100" },
+    { "name": "Functional Red", "color": "red-600", "available-quantity":"100" },
+    { "name": "React Red", "color": "red-700", "available-quantity":"100" },
+    { "name": "Stateful Pink", "color": "pink-100", "available-quantity":"100" },
+    { "name": "Black Awakenings", "color": "grey-300", "available-quantity":"100" },
+    { "name": "Cool Orange", "color": "orange-500" , "available-quantity":"100"}
+  ]
